@@ -5,4 +5,8 @@ L'objectif de cette formation est d'introduire les principales notions d'infére
 La formation se veut pratique sur R.
 
 ## Les données
-Nous allons travailler avec le jeu de données..., disponible sur cette page (issu de https://www.data.gouv.fr/fr/datasets/data-insee-sur-les-communes/)
+Nous allons travailler avec le jeu de données disponible sur https://www.data.gouv.fr/fr/datasets/data-insee-sur-les-communes/
+
+### Exercice 1: prise en main
+  - récupérer le jeu de données en format xls
+  - importer le dans R
