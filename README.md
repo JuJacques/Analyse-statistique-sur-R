@@ -16,6 +16,8 @@ Nous supposons pour cela que l'échantillon est représentatif de l'ensemble des
   - importer le fichier de données dans R.
   - réaliser une analyse exploratoire des données à l'aide de la commande `summary`, en vous aidant du fichier VisaPremier.pdf pour comprendre ce que signifie chaque variable.
 
+## Traitement d'éventuelles données atypiques et des données manquantes
+
 ## Estimation ponctuelle
 Nous allons travailler avec l'âge du client.
 
