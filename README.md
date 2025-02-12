@@ -17,6 +17,10 @@ Nous supposons pour cela que l'échantillon est représentatif de l'ensemble des
   - réaliser une analyse exploratoire des données à l'aide de la commande `summary`, en vous aidant du fichier VisaPremier.pdf pour comprendre ce que signifie chaque variable.
 
 ## Estimation ponctuelle
+Nous allons travailler avec l'âge du client.
+
+### Exercice 2: 
+- faites la même chose avec l'ancienneté du client.
 
 ## Estimation par intervalle de confiance
 
