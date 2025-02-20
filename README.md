@@ -22,7 +22,7 @@ Nous supposons pour cela que l'échantillon est représentatif de l'ensemble des
 Nous allons travailler avec l'âge du client.
 
 ### Exercice 2: 
-- faites la même chose avec l'ancienneté du client.
+- faites la même chose avec l'ancienneté du client : représenter la distribution empirique de l'ancienneté ; estimer l'ancienneté moyenne pour l'ensemble de la population. Faites de même pour chaque catégorie socio-preofessionelle (représentation et estimation de la moyenne)
 
 ## Estimation par intervalle de confiance
 
