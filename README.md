@@ -30,7 +30,10 @@ Nous allons travailler avec l'âge du client.
 Question : le nombre de paiements par CB est-il en moyenne différent pour les personnes qui possèdent la carte VP et celles qui ne la possèdent pas ?
 
 ### Exercice 3:
-
+On souhaite tester l'effet d'un médicament censé réduire le taux de le cholesterol. On a mesuré le taux de cholesterol (g/l) chez 10 patients, avant la prise de ce médicament, et une semaine après l'avoir pris. Voici les taux obtenus :\
+Avant 0.1  0.2 0.15 0.3 0.34 0.16 0.09 0.24 0.17 0.29\
+Après 0.8  0.18 0.12 0.2 0.3 0.21 0.12 0.16 0.17 0.22\
+Le médicament a-t-il un effet ?
 
 ## Test de dépendance entre deux variables aléatoires quantitatives
 Question : y-a-t'il un lien l'âge du client et le montant total des avoirs dont il dispose sur tous les comptes ?
