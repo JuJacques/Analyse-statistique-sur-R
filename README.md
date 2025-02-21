@@ -18,7 +18,7 @@ Nous supposons pour cela que l'échantillon est représentatif de l'ensemble des
 
 ## Traitement d'éventuelles données atypiques et des données manquantes
 
-## Estimation ponctuelle
+## Estimation ponctuelle et par intervalle de confiance
 Nous allons travailler avec l'âge du client.
 
 ### Exercice 2: 
@@ -26,14 +26,16 @@ Nous allons travailler avec l'âge du client.
 - estimer l'ancienneté moyenne pour l'ensemble de la population (ponctuellement et par intervalle de confiance de niveau 95%).
 - Faites de même pour chaque code qualité des clients (de A à E) (représentation et estimation de la moyenne)
 
-## Estimation par intervalle de confiance
-
 ## Test de comparaison de deux sous-populations
+Question : le nombre de paiements par CB est-il en moyenne différent pour les personnes qui possèdent la carte VP et celles qui ne la possèdent pas ?
 
 ## Test de dépendance entre deux variables aléatoires quantitatives
+Question : y-a-t'il un lien l'âge du client et le montant total des avoirs dont il dispose sur tous les comptes ?
 
 ## Test de dépendance entre deux variables aléatoires qualitatives
+Question : existe-il un lien entre la possession de la carte Visa-Premier et le code qualité du client ?
 
 ## Test de dépendance entre une variable aléatoire quantitative et une variable aléatoire qualitative
+Question : le nombre de paiements par CB dépend-il du code qualité du client ?
 
 
