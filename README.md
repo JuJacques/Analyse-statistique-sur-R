@@ -29,6 +29,9 @@ Nous allons travailler avec l'âge du client.
 ## Test de comparaison de deux sous-populations
 Question : le nombre de paiements par CB est-il en moyenne différent pour les personnes qui possèdent la carte VP et celles qui ne la possèdent pas ?
 
+### Exercice 3:
+
+
 ## Test de dépendance entre deux variables aléatoires quantitatives
 Question : y-a-t'il un lien l'âge du client et le montant total des avoirs dont il dispose sur tous les comptes ?
 
