@@ -47,7 +47,7 @@ Question : le nombre de paiements par CB dépend-il du code qualité du client ?
 ## Applications 
 
 ### 1. Breast Tumors
-Le jeu données 'breast.tumors.Rdata' contient le niveau d'expression de 1 000 gènes dans 47 échantillons chirurgicaux de tumeurs mammaires humaines provenant de 17 individus différents avant et après un traitement de chimiothérapie. Quels sont les gèns qui dont le niveau d'expression est impacté par la chimiothérapie ?
+Le jeu données 'breast.tumors.Rdata' contient le niveau d'expression de 1 000 gènes dans 47 échantillons chirurgicaux de tumeurs mammaires humaines provenant de 17 individus différents avant et après un traitement de chimiothérapie. Quels sont les gènes dont le niveau d'expression est impacté par la chimiothérapie ?
 
 ### 2. Taux de fer
 On s'intéresse au taux de fer présent dans le foie et le régime à suivre pour mieux contrôler ce taux. On souhaite comparer l'effet des 5 régimes. Il s'agit d'une étude sur des souris. Le plan d'expérience consiste à assigner de manière aléatoire 9 souris pour chaque régime (on considère que la durée du régime est suffisamment grande pour qu'elle efface les éventuelles différences entre les souris avant le régime). Les résultats sont disponibles dans le fichier 'Taux de fer.txt'.\
