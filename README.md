@@ -44,4 +44,9 @@ Question : existe-il un lien entre la possession de la carte Visa-Premier et le 
 ## Test de dépendance entre une variable aléatoire quantitative et une variable aléatoire qualitative
 Question : le nombre de paiements par CB dépend-il du code qualité du client ?
 
+## Applications 
+
+### Breast Tumors
+Le jeu données breast.tumors.Rdata contient le niveau d'expression de 1 000 gènes dans 47 échantillons chirurgicaux de tumeurs mammaires humaines provenant de 17 individus différents avant et après un traitement de chimiothérapie. Quels sont les gèns qui dont le niveau d'expression est impacté par la chimiothérapie ?
+
 
